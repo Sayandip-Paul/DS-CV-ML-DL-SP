@@ -1,2 +1,2 @@
-# Machine-Learning
-Notebooks exploring the application of popular ML algorithms
+# DS-CV-ML-DL
+Notebooks exploring the application of field of Data Science
