@@ -1,0 +1,9 @@
+
+path: /content/drive/MyDrive/YouOnlyLookOnce/Data
+train: Train/images
+val: Test/images
+
+
+names:
+  0: Bike
+  1: Car
