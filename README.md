@@ -1,2 +1,2 @@
 # DS-CV-ML-DL
-Notebooks exploring the application of field of Data Science
+Notebooks and python programs exploring the application of field of Data Science
