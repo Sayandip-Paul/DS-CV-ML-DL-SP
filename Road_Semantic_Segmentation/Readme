@@ -1,0 +1,2 @@
+The autonomous vehicle faces difficulty while driving on rural road since there are no lane markings, thus here I have attempted to use semantic
+segmentation on the road only using YoloV8 model so that the vehicle can autonomously drive on the road even when there are no lane markings.
